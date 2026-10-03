@@ -42,5 +42,4 @@ initial assignment for this particular deterministic workload.
 
 ## AI Assistance
 
-AI assistance was used to help implement, test, and document the experiment.
-The student remains responsible for reviewing the method, results, and report.
+AI assistance (ChatGPT Sol 5.6) was used to help implement, test, and document the experiment.
